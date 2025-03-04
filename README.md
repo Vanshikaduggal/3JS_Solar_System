@@ -1,14 +1,13 @@
-A simple interactive website about the solar system using Three.js(JavaScript 3D Library).
+# **3D Interactive Solar System 🌌**  
+A simple, interactive website showcasing the **Solar System** using **Three.js** (JavaScript 3D Library). Explore the planets, zoom in and out, and enjoy an immersive space experience!  
 
-Check it live at: https://mannbell.me/solar-system-3js
+## 🚀 Features  
+- Realistic **3D models** of planets 🌍  
+- **Interactive controls** for exploring the solar system 🛰️  
+- Smooth animations and **orbiting planets** 🪐  
+- Light and shadow effects for a more immersive experience ☀️  
 
-### To run in Dev mode
-`git clone https://github.com/m4nnb3ll/solar-system-3js <your-desired-path>`
-
-`cd <your-desired-path> && npm install`
-
-`npm start`
-
-### Demo:
-
-![demo image](https://i.ibb.co/mBcxdbQ/Screen-Shot-2024-02-13-at-12-20-05-PM.png)
+## 🔧 Setup & Run in Dev Mode  
+Clone the repository:  
+```sh
+git clone https://github.com/Vanshikaduggal/3JS_Solar_System <your-desired-path>
