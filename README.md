@@ -16,10 +16,6 @@ Follow these steps to set up and run the project on your local machine:
 ```sh
 git clone https://github.com/Vanshikaduggal/3JS_Solar_System <your-desired-path> && cd <your-desired-path>
 
-### 1️⃣ Install dependencies 
-```sh
 npm install
 
-### 3️⃣ Start the development server
-```sh
 npm start
